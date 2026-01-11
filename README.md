@@ -41,7 +41,6 @@ using **demo or test websites only**.
 ## 📂 Project Structure
 ```text
 
-├── python-selenium-project/
-│   ├── instamatch_otp_bypass.py
+├── instamatch_otp_bypass.py
 ├── README.md
 └── .gitignore
